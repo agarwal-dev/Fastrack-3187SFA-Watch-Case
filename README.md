@@ -1,39 +1,39 @@
-# Fastrack 3187SFA Watch Case — CAD & Reverse Engineering
+# Fastrack 3187SFA Watch Case – CAD & Reverse Engineering
 
-## Overview
+Reverse-engineered the case of a **Fastrack 3187SFA** wristwatch by taking physical measurements and reconstructing its geometry in SolidWorks.
 
-Reverse-engineered the case of a Fastrack 3187SFA wristwatch by taking physical measurements of the reference watch and reconstructing its geometry in CAD.
+## Project Overview
 
-## Objective
-
-To study the construction and external architecture of a commercial wristwatch case through physical measurement and 3D CAD reconstruction.
-
-## Methodology
-
-1. Physically measured the reference watch case.
-2. Identified the major geometric features and interfaces.
-3. Transferred the measured dimensions into CAD.
-4. Reconstructed the case geometry and external detailing.
-5. Reviewed the resulting model for dimensional consistency and feature placement.
+The physical watch was used as the reference to study the case architecture and reproduce its major features through 3D CAD.
 
 ## Key Features
 
-* Case body
-* Integrated lugs
-* Button openings
-* External case detailing
-* Internal cavity
-* Component interfaces
+* Physical measurement of the reference watch
+* Reconstruction of case body and lugs
+* Reproduction of button openings and external detailing
+* Development of internal cavity and component interfaces
 
-## Tools
+## Tools Used
 
 * SolidWorks
 * Physical measurement tools
+
+## Files Included
+
+* CAD model
+* Reference photographs
+
+## Preview
+
+Reference watch and CAD reconstruction are shown below.
+<img width="2188" height="1892" alt="IMG_20260821_000659 jpg" src="https://github.com/user-attachments/assets/10f943bb-4372-495a-8194-24a9ee9f2c98" />
+<img width="861" height="527" alt="image" src="https://github.com/user-attachments/assets/7e9a8207-373e-4aee-9280-48b529e1fc78" />
+<img width="573" height="718" alt="image" src="https://github.com/user-attachments/assets/cad0f6ef-8993-4c5a-9552-6c497497c2b0" />
 
 ## Project Status
 
 **Completed**
 
-## Preview
+## License
 
-*Project images and CAD files are included in this repository.*
+For educational and portfolio purposes. The original watch design belongs to its respective manufacturer.
